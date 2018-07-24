@@ -18,7 +18,10 @@
   },
   "homepage": "https://github.com/Riggs041/FriendFinder#readme",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.2.0",
     "body-parser": "^1.18.3",
+    "bootstrap": "^4.1.2",
+    "chosen": "0.0.2",
     "express": "^4.16.3",
     "path": "^0.12.7"
   }
